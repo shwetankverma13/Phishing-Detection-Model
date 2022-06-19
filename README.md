@@ -50,15 +50,11 @@ Steps done to make this project-
 
 # Screenshot
 <p align="center">
-  <img height="400px" width="800px" src="/SS/2.png">
+  <img height="400px" width="800px" src="/S1.jpg">
   <br>
   <br>
   <br>
-  <img height="400px" width="800px" src="/SS/33.png">
-  <br>
-  <br>
-  <br>
-  <img height="400px" width="800px" src="/SS/1.png">
+  <img height="400px" width="800px" src="/s2.jpg">
 </p>
 
 
